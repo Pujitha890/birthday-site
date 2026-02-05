@@ -88,7 +88,9 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
+                  Happy day, my dearest friend!💕
+                  Life is so much better with you by my side 🫶
+                  May your life be full of happiness and endless smiles 🌈✨
                 </p>
                 <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
@@ -118,7 +120,7 @@ export default function BirthdayCelebration() {
       >
         <div className="text-center">
           <p className="text-lg text-purple-700 mb-4">
-          May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
+            May every wish you make today come true. You deserve the world.
           </p>
           <div className="flex justify-center items-center gap-2">
             <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
